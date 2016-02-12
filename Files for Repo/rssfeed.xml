@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>Thank You and Welcome to StreamBot</title>
+  <link>http://www.facebook.com/TheStreamBot</link>
+  <description>Visit us at www.facebook.com/TheStreamBot</description>
+  <item>
+    <title>Bienvenidos a StramBot</title>
+    <link>http://www.facebook.com/TheStreamBot</link>
+    <description>Visiten nuestra pagina www.facebook.com/TheStreamBot</description>
+  </item>
+  <item>
+    <title>Gracias and Thank You</title>
+    <link> </link>
+    <description> </description>
+  </item>
+</channel>
+
+</rss>
